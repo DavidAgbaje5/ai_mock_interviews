@@ -1,4 +1,4 @@
-import Agent from "@/components/Agent";
+import Agent from "@/components/agent";
 
 
 const Page = () => {
